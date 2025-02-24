@@ -1,1 +1,0 @@
-# HLC_Python_Examen2
